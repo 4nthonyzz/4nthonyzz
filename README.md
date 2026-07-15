@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony Abad</h1>
 <h3 align="center">A passionate student of the Software Engineering program - ESPOCH</h3>
 
-- 🔭 I’m currently studying on **ESPOCH - FIE PAO5**
+- 🔭 I’m currently studying on **ESPOCH - FIE PAO6**
 - 🌱 I’m currently learning **Data Structures, Algorithms, and Databases**
 - 👨‍💻 **Check out my latest projects below!**
 - 💬 Ask me about **Software engineering & C++**
